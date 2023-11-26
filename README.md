@@ -2,7 +2,7 @@
 
 Completed this project as a part of Bi with Power BI with United Network  Of Professionals (UNP)
 
-Key Highlights
+Description;
 
 This Power BI project is centered around Maven Market data, spanning five key slides: Company, Product Brand, Product, Customer, and Insights. Leveraging measures and the query editor, the project aims to provide a comprehensive analysis of the company's performance, product branding, individual products, customer behavior, and overarching insights. This dynamic approach allows for in-depth visualization and interactive exploration of Maven Market's data.
 
